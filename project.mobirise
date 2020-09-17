@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-16_1112",
+    "name": "Cyldesdales on the Croft",
     "currentPage": "index.html",
     "theme": {
       "name": "lifestyleamp",
@@ -39,14 +39,20 @@
     ],
     "uniqCompNum": 15,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/9585-200-128x128.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Clydesdales on the Croft",
+        "meta_descr": "Join the pack of Clydesdales (and one rogue donkey!) on a trip to remember...\nExperience life on the croft, in idyllic location on the West Coast of Scotland.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
