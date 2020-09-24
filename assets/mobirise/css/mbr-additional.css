@@ -765,6 +765,10 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
+.cid-sbf5ewsuns .card-title,
+.cid-sbf5ewsuns .card-box {
+  color: #000000;
+}
 .cid-sbrEQVfqwK {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -1308,7 +1312,6 @@ a {
 .cid-sbrGR7Ztyk img,
 .cid-sbrGR7Ztyk .item-img {
   height: 100%;
-  height: 300px;
   object-fit: cover;
 }
 .cid-sbrGR7Ztyk .item:focus,
